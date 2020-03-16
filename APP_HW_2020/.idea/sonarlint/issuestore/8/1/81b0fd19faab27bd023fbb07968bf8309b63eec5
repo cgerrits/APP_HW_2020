@@ -1,0 +1,10 @@
+
+x
+java:S1450
+"VRemove the "current" field and declare it as a local variable in the relevant methods.(á–ÿÿÿÿÿ8Ğü×ñŒ.
+M
+java:S1068
+"+Remove this unused "current" private field.(á–ÿÿÿÿÿ8Ô¤ÖñŒ.
+:
+java:S1643™"Use a StringBuilder instead.(”ÁÎØ8åÚÁğŒ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø‘Û¤úÿÿÿÿ

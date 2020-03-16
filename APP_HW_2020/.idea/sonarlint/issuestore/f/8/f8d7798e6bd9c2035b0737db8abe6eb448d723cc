@@ -1,0 +1,18 @@
+
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©•ùØùÿÿÿÿ8áÑøğŒ.
+A
+java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ8áÑøğŒ.
+T
+java:S11971"8Move the array designator from the variable to the type.(ä¢™L8†‘ûğŒ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÀÊ€şÿÿÿÿ8áÑøğŒ.
+Z
+java:S1197	"8Move the array designator from the variable to the type.(©•ùØùÿÿÿÿ8áÑøğŒ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø‘Û¤úÿÿÿÿ
+Z
+java:S1197"8Move the array designator from the variable to the type.(òòôôøÿÿÿÿ8áÑøğŒ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÔÀÊ€şÿÿÿÿ8áÑøğŒ.
+J
+java:S1144+"-Remove this unused private "isSorted" method.(£§Üå8ş•›ñŒ.
+C
+java:S1172+"&Remove these unused method parameters.(£§Üå8ş•›ñŒ.

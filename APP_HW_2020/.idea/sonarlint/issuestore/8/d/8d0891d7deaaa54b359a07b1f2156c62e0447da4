@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıìÃ8ØºèğŒ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø‘Û¤úÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶Íêÿÿÿÿÿ8˜œ°ñŒ.
+J
+java:S1128"(Remove this unused import 'Trees.Order'.(ä®Úıÿÿÿÿ8â³çğŒ.

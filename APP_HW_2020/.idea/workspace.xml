@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e582860-0160-4f73-bca4-42acd5bc27ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/HANStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/LinkedList/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/LinkedList/FooterNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/LinkedList/HANLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/LinkedList/HeaderNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datastructures/Tuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/FCNSTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Toets/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Toets/Exercise1A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Toets/IdentifactionKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Toets/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Toets/Question.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,21 +35,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../advanced-java-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Toets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chico\Documents\APP_HW_2020\src\com\company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics.Main" />
       <module name="APP_HW_2020" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Toets.Main" />
+      <module name="APP_HW_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Toets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,9 +86,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -105,6 +110,7 @@
       <workItem from="1582186188668" duration="1376000" />
       <workItem from="1583757282112" duration="392000" />
       <workItem from="1583938553991" duration="5390000" />
+      <workItem from="1583999827336" duration="8663000" />
     </task>
     <servers />
   </component>
@@ -112,11 +118,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1583943176929">
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1584004875952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1583943176929" />
-    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581345456403" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584004875952" />
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583938849667">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -126,22 +132,22 @@
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1583938989274" />
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583757634367" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582029265290">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584322542923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582029265290" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582029265289">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584322542923" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584322542923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582029265289" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582029265289">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584322542923" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584322542923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582029265289" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582029265289">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584322542923" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584322542923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582029265289" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584322542923" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1583757257105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -27,3 +27,15 @@ F
 src/Generics/Main.java,d\d\dd31c3f5df6946a2c983b9c62590fd54acc675b9
 I
 src/Generics/Address.java,7\a\7a6d4471f2f66294fa135868a8f4704a405f837f
+I
+src/Trees/BinaryTree.java,e\d\ed14821320e740475344ea3f954ee60659c2f771
+G
+src/Toets/Question.java,6\b\6b43f2720d27d5bce013feded22fb073ace454de
+E
+src/Toets/Animal.java,9\3\93a7f221af6e95702afa6641c5744a46c2c522f9
+I
+src/Toets/Exercise1A.java,f\8\f8d7798e6bd9c2035b0737db8abe6eb448d723cc
+C
+src/Toets/Main.java,8\d\8d0891d7deaaa54b359a07b1f2156c62e0447da4
+O
+src/Toets/IdentifactionKey.java,8\1\81b0fd19faab27bd023fbb07968bf8309b63eec5
