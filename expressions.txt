@@ -1,0 +1,23 @@
+expression: INT | expression MULTIPLY expression | expression ADD expression
+
+MULTIPLY: '*';
+ADD: '+';
+INT: [0-9]*;
+WS: [ \t\r\n]+ -> skip;
+
+public class ConfigurationReader extends ConfigurationBaseListener {
+    private HashMap<String,String> properties;
+
+    public ConfigurationReader() {
+        properties = new HashMap<String,String>();
+    }
+
+    @Override
+    public void exitProperty(ConfigurationParser.PropertyContext cxt) {
+        properties.put(cxt.getChild(0).getText(),
+                cxt.getChild(2).getText());
+    }
+    public HashMap<String, String> getProperties() {
+        return properties;
+    }
+}

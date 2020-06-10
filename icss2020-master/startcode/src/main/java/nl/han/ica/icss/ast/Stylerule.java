@@ -49,6 +49,15 @@ public class Stylerule extends ASTNode {
 				Objects.equals(body, stylerule.body);
 	}
 
+	// Heeft removeChild nodig aangezien er transforms plaats moeten kunnen vinden met ifclauses
+	@Override
+	public ASTNode removeChild(ASTNode child) {
+		//body omdat de enige transformatie die iets uit stylerule kan halen geen selector is.
+		body.remove(child);
+		// return waarde is hier alleen omdat hij overerft van de super
+		return new ASTNode();
+	}
+
 	@Override
 	public int hashCode() {
 		return Objects.hash(selectors, body);
