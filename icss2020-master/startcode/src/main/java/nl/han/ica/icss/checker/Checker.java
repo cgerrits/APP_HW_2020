@@ -52,6 +52,7 @@ public class Checker {
         }
         return false;
     }
+
     // haalt de bovenste VariableAssignment van een reference door recursief door alle references te gaan tot ie een assignment tegen komt waarvan de expression gaan variablereference is
     private VariableAssignment getAssignment(VariableReference variableReference) {
         ArrayList<ASTNode> assignments = variableAssignments;
